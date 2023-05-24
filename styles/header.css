@@ -1,0 +1,139 @@
+.header-section{
+    display: flex;
+    flex-direction: row;
+    height: 28px;
+    justify-content: space-between;
+    margin-bottom: 0;
+    align-items: center;
+}
+.left-section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    
+}
+.right-section{
+    display: flex;
+    margin-right: 46px;
+    justify-content: center;
+}
+.link-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 5px;
+}
+.microsoft-logo{
+    height: 12px;
+    margin-left: 39px;
+}
+.link-section-tab-left{
+    font-size: 7px;
+    margin-left: 8px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.link-section-tab-right{
+    font-size: 7px;
+    margin-right: 15px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.link-section-tab-right-search{
+    font-size: 7px;
+}
+.search-div{
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.search-image{
+    height: 10px;
+}
+.cart-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 10px;
+}
+.cart-image{
+    height: 10px;
+    margin-left: 3px;
+}
+.link-section-tab-right-cart{
+    font-size: 7px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.sign-in-icon{
+    height: 16px;
+    margin-top: 3px;
+}
+.background{
+ 
+}
+.background-image{
+    width: 100%;
+    height: 185px;
+}
+.image-div{
+    position: relative;
+}
+.intro-to-microsoft{
+    position: absolute;
+    height: 100px;
+    width: 255px;
+    top: 45px;
+    left: 40px;
+    
+}
+.welcome-text{
+    position: relative;
+}
+.microsoft-365{
+    font-weight: 500;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.introduction{
+    font-size: 8px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
+.welcome-text-buttons{
+    position: absolute;
+    top: 65px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+}
+.for-one-person{
+    color: white;
+    background-color: #0067b8;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    border: none;
+    font-size: 8.5px;
+    height: 20PX;
+    border-radius: 2px;
+}
+.underlined{
+    font-size: 8PX;
+    font-weight: 500;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    margin-left: 15px;
+}
+.button-section{
+    display: flex;
+    justify-content: center;
+}
+.media-controls{
+    height: 13px;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+

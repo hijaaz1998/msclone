@@ -1,0 +1,41 @@
+.icons-section{
+    height: 45px;
+    margin-top: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20PX; 
+}
+.image-section{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.black-logo{
+    height: 17px;
+    padding-left: 45px;
+    
+}
+.black-logo1{
+    height: 17px;
+    padding-left: 30px;
+}
+.xbox-logo{
+    height: 17px;
+    padding-left: 30px;
+}
+.icons-section div{
+    align-items: center;
+    justify-content: center;
+}
+.underlined{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.underlined u{
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 6.5px;
+    margin-top: 0;
+    color: #0067b8;
+    cursor: pointer;
+}
+
